@@ -13,7 +13,7 @@ Mejorar el rendimiento del equipo.
 Asegurar que el entorno esté limpio antes de compilar o ejecutar otros procesos en el proyecto.
 
 
- ¿Qué hace exactamente?
+ *¿Qué hace exactamente?*
  
 Este script ejecuta una serie de comandos para:
 
