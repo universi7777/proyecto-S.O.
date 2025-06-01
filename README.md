@@ -2,7 +2,7 @@
 Herramientas CMD para acelerar el arranque de Windows, reducir fallos y mejorar el rendimiento general de los equipos.
 
 
- ¿Qué es este archivo?
+ ¿QUÉ ES ESTE ARCHIVOS .BAT?
  
 es un script por lotes (.bat) diseñado para sistemas operativos Windows. Su función principal es automatizar la limpieza de archivos temporales y caché del sistema con el objetivo de:
 
@@ -13,7 +13,7 @@ Mejorar el rendimiento del equipo.
 Asegurar que el entorno esté limpio antes de compilar o ejecutar otros procesos en el proyecto.
 
 
- *¿Qué hace exactamente?*
+ ¿QUÉ HACE EXACTAMENTE?
  
 Este script ejecuta una serie de comandos para:
 
@@ -28,7 +28,7 @@ Vaciar la papelera de reciclaje (opcional, si se incluye).
 Todo esto ocurre automáticamente al ejecutar el archivo, sin necesidad de intervención del usuario.
 
 
-¿Cómo se usa?
+¿CÓMO SE USA?
 
 Hacer doble clic sobre el archivo Limpiar_cache.bat.
 
@@ -37,7 +37,7 @@ El script ejecutará los comandos en la consola de Windows.
 Esperar a que finalice. Se mostrarán mensajes con los resultados de limpieza.
 
 
-¿Por qué es importante?
+¿POR QUÉ ES IMPORTANTE?
 
 El archivo Limpiar_cache.bat es útil porque:
 
